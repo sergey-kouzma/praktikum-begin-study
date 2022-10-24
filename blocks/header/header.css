@@ -1,0 +1,11 @@
+@import url(./logo/header__logo.css);
+@import url(./title/header__title.css);
+@import url(./subtitle/header__subtitle.css);
+@import url(./main-illustration/header__main-illustration.css);
+@import url(./square-pic/header__square-pic.css);
+.header{
+    min-height: 600px;
+    max-height: 756px;
+    display: flex;
+    align-items: center;
+}

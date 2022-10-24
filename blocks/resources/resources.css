@@ -1,0 +1,6 @@
+@import url(./logo-zone/resources__logo-zone.css);
+.resources{
+    width: 1100px;
+    margin: 80px 0px 217px;
+    display:flex;
+}
