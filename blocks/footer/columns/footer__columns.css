@@ -1,0 +1,9 @@
+@import url(./footer__columns_content_copyright.css);
+@import url(./footer__columns_content_social.css);
+@import url(./footer__columns_content_info.css);
+
+.footer__columns {
+    margin: 0px auto;
+    display: flex;
+    width:90%;
+}
