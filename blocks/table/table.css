@@ -8,6 +8,8 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    padding:0px;
+    list-style: none;
 }
 
 .table_theme_dark {
