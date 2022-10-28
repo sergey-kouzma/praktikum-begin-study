@@ -1,0 +1,9 @@
+.footer__column_content_info {
+    display: flex;
+    width: max-content;
+    min-height: auto;
+    flex-direction: column;
+    margin-right: 200px;
+    flex:none;
+  }
+  

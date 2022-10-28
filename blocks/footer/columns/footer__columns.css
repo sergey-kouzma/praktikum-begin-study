@@ -6,4 +6,5 @@
     margin: 0px auto;
     display: flex;
     width:90%;
+    flex-direction: row;
 }

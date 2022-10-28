@@ -1,4 +1,4 @@
-/*.section {
+.page__section {
     width: 80%;
     margin: auto;
     padding-top:100px;
@@ -8,8 +8,8 @@
     justify-content: center;
 }
 
-.section_dark {
-    background-color: black;
+.page__section_dark {
+    background-color: #1f1f1f;
     padding-top: 90px;
+    width: 100%;
 }
-*/

@@ -1,0 +1,8 @@
+.footer__column_content_social {
+    display: flex;
+    width: max-content;
+    min-height: auto;
+    flex-direction: column;
+    flex:none;
+  }
+  

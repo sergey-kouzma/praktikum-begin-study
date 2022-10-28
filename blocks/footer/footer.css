@@ -3,10 +3,14 @@
 @import url(./column-link/footer__column-link.css);
 @import url(./column-links/footer__column-links.css);
 @import url(./columns/footer__columns.css);
+@import url(./columns/footer__columns_content_copyright.css);
+@import url(./columns/footer__columns_content_info.css);
+@import url(./columns/footer__columns_content_social.css);
 @import url(./social-icon/footer__social-icon.css);
 
 .footer{
-    background-color: black;
+    background-color: #1f1f1f;
     padding: 60px 0px 40px;
-    color:white;
+    color: #f2f2f2;;
 }
+  
